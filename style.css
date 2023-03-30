@@ -1,0 +1,44 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    background-color: #1b1b1b;
+    color: 	#ffa31a;
+    border: 1px solid black;
+    padding: 20px;
+    display: flexbox;
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.h2 title{
+    text-align: center;
+}
+
+.container input {
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: left;
+    
+}
+#btn {
+    color:black;
+    background-color: #ffa31a;
+    border: none;
+    padding: 5px 15px;
+}
+#btn:hover {
+    background-color: white;
+    color: black;
+}
+.answer-box {
+    background-color: black;
+    color: #ffa31a;
+    border: 1px solid black;
+    padding: 0 20px;
+    width: 30%;
+    margin: 0 auto;
+}
